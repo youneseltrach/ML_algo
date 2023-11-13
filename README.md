@@ -5,4 +5,4 @@ Implementation some machine learning algorithms from scratch using Python
 3) Neural Network
 4) Decision Tree
 5) K-means algorithm
-6) ... in the future
+6) ... (coming soon)
